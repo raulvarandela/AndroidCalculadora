@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="opSuma">Suma</string>
+    <string name="opResta">Resta</string>
+    <string name="opMultiplica">Multiplicación</string>
+    <string name="opDivide">División</string>
+    <string name="lblOp1">Op 1</string>
+    <string name="lblOp2">Op 2</string>
+    <string name="lblResultado">Resultado</string>
+    <string name="opNegativo">Convierte Negativo</string>
+    <string name="opCuadrado">Eleva al cuadrado</string>
+    <string name="opRaiz">Raíz Cuadrada</string>
+</resources>
